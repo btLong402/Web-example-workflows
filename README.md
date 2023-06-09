@@ -1,1 +1,1 @@
-# Web-example-workflows
+## Example project
