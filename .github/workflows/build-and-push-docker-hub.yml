@@ -29,7 +29,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: btLong402/Web-example-workflows
+          tags: btlong402/learndocker
 
 
   pull-and-up:
